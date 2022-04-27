@@ -1,8 +1,16 @@
 README.md
 setup.cfg
 setup.py
+ligotools/__init__.py
+ligotools/readligo.py
 ligotools.egg-info/PKG-INFO
 ligotools.egg-info/SOURCES.txt
 ligotools.egg-info/dependency_links.txt
 ligotools.egg-info/requires.txt
 ligotools.egg-info/top_level.txt
+ligotools.egg-info/.ipynb_checkpoints/PKG-INFO-checkpoint
+ligotools.egg-info/.ipynb_checkpoints/SOURCES-checkpoint.txt
+ligotools.egg-info/.ipynb_checkpoints/dependency_links-checkpoint.txt
+ligotools.egg-info/.ipynb_checkpoints/requires-checkpoint.txt
+ligotools/tests/__init__.py
+ligotools/tests/tests_readligo.py
