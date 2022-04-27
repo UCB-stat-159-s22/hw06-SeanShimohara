@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ligotools
+Version: ligotools.-version-
+Summary: Ligotools package to run index.ipynb
+Home-page: UNKNOWN
+Author: Ligo Scientific Collaboration (LSC) and Sean Shimohara
+Author-email: sean_shimohara@berkeley.edu
+License: UNKNOWN
+Description: A package created to run the index.ipynb file in homework assignment 6 for UC Berkeley Stat 159.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: ==2.7.18
+Description-Content-Type: text/markdown
